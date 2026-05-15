@@ -8,7 +8,7 @@
 
 ## 当前内容
 
-- [论文阅读专家 Prompt](./prompts/paper-reading-expert.md): 用于围绕论文原文、相关工作和领域视野生成分级可靠性分析。
+- [论文阅读专家 Prompt](./prompts/paper-reading-expert.md): 用于围绕论文原文、相关工作和领域视野生成分级可靠性分析。该 prompt 抄自 [shiml20/Paperflow](https://github.com/shiml20/Paperflow)。
 
 ## 维护原则
 
